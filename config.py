@@ -1,0 +1,5 @@
+DATABASE_USER = 'postgres'
+DATABASE_PASSWORD = '1111'
+DATABASE_HOST = 'localhost'
+DATABASE_PORT = '5432'
+DATABASE_NAME = 'students_db'
